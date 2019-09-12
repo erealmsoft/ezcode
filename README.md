@@ -1,4 +1,4 @@
-#  EZ Code
+# EZ Code
 [![codebeat badge](https://codebeat.co/badges/bb3c7698-1430-4e8a-bc8f-c2fcbaa0b2cc)](https://codebeat.co/projects/github-com-erealmsoft-ezcode-master)
 
 ## 规则
