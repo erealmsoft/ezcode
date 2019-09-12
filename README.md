@@ -1,5 +1,5 @@
 # EZ Code
-[![codebeat badge](https://codebeat.co/badges/bb3c7698-1430-4e8a-bc8f-c2fcbaa0b2cc)](https://codebeat.co/projects/github-com-erealmsoft-ezcode-master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7842225fe7e640deaabb37a7daa3015f)](https://www.codacy.com/manual/Enginebeck/ezcode?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=erealmsoft/ezcode&amp;utm_campaign=Badge_Grade)
 
 ## 规则
 1. 每天晚上`10:30`之前提交作业，第二天晚上10:30还没交作业的视为**违规**
