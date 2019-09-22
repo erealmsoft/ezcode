@@ -64,8 +64,16 @@
 
 -   出题人：Jack
 -   题目：
-    - Hook如何使用, 它有哪些优势？
-    - 简单谈一下React Diff算法的策略。
+    -   Hook如何使用, 它有哪些优势？
+    -   简单谈一下React Diff算法的策略。
+
+### `2019-09-23`
+
+-   出题人：Mia
+-   题目：
+    -   static getDerivedStateFromError()和componentDidCatch()有什么区别？
+    -   React 中 Element 与 Component 的区别？
+    -   解释一下Controlled Component 与 Uncontrolled Component。
 
 ### 第二阶段：Typescript(`2019-10-8` - `2019-10-31`)
 
