@@ -75,6 +75,12 @@
     -   React 中 Element 与 Component 的区别？
     -   解释一下Controlled Component 与 Uncontrolled Component。
 
+### `2019-09-24`
+-   出题人：Beck
+-   题目：
+    -   你如何给组件添加默认props
+    -   简述[create react app](https://github.com/facebook/create-react-app)的用法
+
 ### 第二阶段：Typescript(`2019-10-8` - `2019-10-31`)
 
 ### 第三阶段：基础知识(包括但不限于算法/数据结构/网络等)(`2019-11-01` - `2019-11-30`)
