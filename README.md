@@ -76,17 +76,28 @@
     -   解释一下Controlled Component 与 Uncontrolled Component。
 
 ### `2019-09-24`
+
 -   出题人：Beck
 -   题目：
     -   你如何给组件添加默认props
     -   简述[create react app](https://github.com/facebook/create-react-app)的用法
 
 ### `2019-09-25`
+
 -   出题人：Irene
 -   题目：
     -   应该在 React 组件的何处发起 Ajax 请求?并简述原因
     -   render在什么时候会被触发？在React中如何避免不必要的render？
     -   简述高阶组件
+
+### `2019-09-26`
+
+-   出题人：Ada
+-   题目：
+    -   什么是React 路由？为什么需要 reate中的路由
+    -   为什么React Router v4中使用 switch 关键字 ？
+    -   a链接 与 router 中 link 有什么区别?
+    -   列出 React Router 常用的路由?
 
 ### 第二阶段：Typescript(`2019-10-8` - `2019-10-31`)
 
