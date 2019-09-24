@@ -81,6 +81,13 @@
     -   你如何给组件添加默认props
     -   简述[create react app](https://github.com/facebook/create-react-app)的用法
 
+### `2019-09-25`
+-   出题人：Irene
+-   题目：
+    -   应该在 React 组件的何处发起 Ajax 请求?并简述原因
+    -   render在什么时候会被触发？在React中如何避免不必要的render？
+    -   简述高阶组件
+
 ### 第二阶段：Typescript(`2019-10-8` - `2019-10-31`)
 
 ### 第三阶段：基础知识(包括但不限于算法/数据结构/网络等)(`2019-11-01` - `2019-11-30`)
