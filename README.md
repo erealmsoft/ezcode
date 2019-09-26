@@ -98,6 +98,13 @@
     -   为什么React Router v4中使用 switch 关键字 ？
     -   a链接 与 router 中 link 有什么区别?
     -   列出 React Router 常用的路由?
+    
+### `2019-09-27`
+
+-   出题人：Jack
+-   题目：
+    -   React的合成事件是什么？与原生事件的区别是什么？
+    -   简述propsTypes类型检测的用法。
 
 ### 第二阶段：Typescript(`2019-10-8` - `2019-10-31`)
 
