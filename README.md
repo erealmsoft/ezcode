@@ -94,9 +94,9 @@
 
 -   出题人：Ada
 -   题目：
-    -   什么是React 路由？为什么需要 reate中的路由
+    -   什么是React 路由？ 有什么优点？
     -   为什么React Router v4中使用 switch 关键字 ？
-    -   a链接 与 router 中 link 有什么区别?
+    -   a 链接 与 router 中 link 有什么区别?
     -   列出 React Router 常用的路由?
 
 ### 第二阶段：Typescript(`2019-10-8` - `2019-10-31`)
