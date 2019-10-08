@@ -9,7 +9,7 @@
 3.  每天一道题目，轮流出题，当天题目需要在前一天`11:00`前写在本`readme`下面，未按时出题的视为**违规**
 4.  不得相互抄袭答案，被评定为抄袭者，视作违规处理
 5.  **违规一次罚款一百**并记录在本`README.md`里面，罚款作为我们的腐败基金，每个阶段腐败一次，如果某个阶段腐败基金不够或者没有，我们就利用公费腐败
-6.  出题轮流顺序：[Beck](https://github.com/Enginebeck)->[Irene](https://github.com/Irenedan)->[Ada](https://github.com/AdaWhere)->[Jacy](https://github.com/jacygogogo)->[Mia](https://github.com/miaZhang22)
+6.  出题轮流顺序：[Beck](https://github.com/Enginebeck) -> [Irene](https://github.com/Irenedan) -> [Ada](https://github.com/AdaWhere) -> [Jacy](https://github.com/jacygogogo) -> [Mia](https://github.com/miaZhang22) -> [Helen](https://github.com/be-awake)
 7.  每周五下午6:00进行一次小会，讨论及总结本周的问题
 
 ## 题目
@@ -98,14 +98,14 @@
     -   为什么React Router v4中使用 switch 关键字 ？
     -   a 链接 与 router 中 link 有什么区别?
     -   列出 React Router 常用的路由?
-    
+
 #### `2019-09-27`
 
 -   出题人：Jack
 -   题目：
     -   React的合成事件是什么？与原生事件的区别是什么？
     -   简述propsTypes类型检测的用法。
-    
+
 #### `2019-09-28`
 
 -   出题人：Beck
@@ -124,4 +124,17 @@
 
 ### 第二阶段：Typescript(`2019-10-8` - `2019-10-31`)
 
+#### `2019-10-08`
+
+-   出题人：Mia
+-   题目：
+    -   总结React。
+    -   为什么要使用Typescript？
+    -   readonly和const有什么区别？
+
 ### 第三阶段：基础知识(包括但不限于算法/数据结构/网络等)(`2019-11-01` - `2019-11-30`)
+
+## 违规列表
+
+-   `20190924`: `Jack`写错了作业，回答的是之后一天的题
+-   `20191007`: `Mia`题虽然出了，但是没有成功的推到github上
