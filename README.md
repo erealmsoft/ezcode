@@ -9,7 +9,7 @@
 3.  每天一道题目，轮流出题，当天题目需要在前一天`11:00`前写在本`readme`下面，未按时出题的视为**违规**
 4.  不得相互抄袭答案，被评定为抄袭者，视作违规处理
 5.  **违规一次罚款一百**并记录在本`README.md`里面，罚款作为我们的腐败基金，每个阶段腐败一次，如果某个阶段腐败基金不够或者没有，我们就利用公费腐败
-6.  出题轮流顺序：[Beck](https://github.com/Enginebeck)->[Irene](https://github.com/Irenedan)->[Ada](https://github.com/AdaWhere)->[Jacy](https://github.com/jacygogogo)->[Mia](https://github.com/miaZhang22)
+6.  出题轮流顺序：[Beck](https://github.com/Enginebeck) -> [Irene](https://github.com/Irenedan) -> [Ada](https://github.com/AdaWhere) -> [Jacy](https://github.com/jacygogogo) -> [Mia](https://github.com/miaZhang22) -> [helen](https://github.com/be-awake)
 7.  每周五下午6:00进行一次小会，讨论及总结本周的问题
 
 ## 题目
