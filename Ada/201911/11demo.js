@@ -14,7 +14,7 @@ function bubbleSort() {
 
     return arr;
 }
-console.log(bubbleSort(arr));
+//console.log(bubbleSort(arr));
 bubbleSort(arr);
 //选择排序
 function selectSort(arr) {
@@ -37,7 +37,7 @@ function selectSort(arr) {
 
     return arr;
 }
-console.log(selectSort(arr));
+//console.log(selectSort(arr));
 selectSort(arr);
 
 //插入排序
@@ -56,5 +56,21 @@ function insertSort(arr) {
     return arr;
 }
 
-console.log(insertSort(arr));
+//console.log(insertSort(arr));
 insertSort(arr);
+
+function rollArr(arr, rollIndex) {
+
+    let newArr = [];
+    let connactArr = [];
+    for(let i = arr.length - rollIndex; i < arr.length; i ++) {
+        newArr.unshift(arr[i])
+    }
+    for(let i = 0; i < arr.length - rollIndex; i++) {
+        connactArr.push(arr[i])
+    }
+    return newArr.concat(connactArr);
+}
+
+console.log(rollArr(a, 2))
+
