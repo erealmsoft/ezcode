@@ -20,3 +20,7 @@
 #### `2019-11-11--11-15`
 -   出题人：Sage
 -   题目: 创建一个shader，自定义实现一种动态效果，像水波浪等等，上传效果图。
+
+#### `2019-11-19--11-24`
+-   出题人：Andy
+-   题目: 分别描述Input基础类别下的Constant, Integer, Slider, Boolean, Color, Time……在Unity Shader中所代表的含义或用途。
