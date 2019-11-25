@@ -24,3 +24,7 @@
 #### `2019-11-19--11-24`
 -   出题人：Andy
 -   题目: 分别描述Input基础类别下的Constant, Integer, Slider, Boolean, Color, Time……在Unity Shader中所代表的含义或用途。
+
+#### `2019-11-25--11-29`
+-   出题人：Sage
+-   题目: 创建一个Shader，实现物体表面的流光效果。
